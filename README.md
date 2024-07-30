@@ -4,7 +4,7 @@
   margin-right: auto;
   width: 30%;
   border-radius: 20px; ' >
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fluffy&psig=AOvVaw0A60kHXVVPDx5LXBwe24hf&ust=1722391071874000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDqh_LUzYcDFQAAAAAdAAAAABAE" alt="HariPineapple" /> </p>
+<p align="left"> <img src="https://media.gifdb.com/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.gif" alt="HariPineapple" /> </p>
 🌱 I'm currently Learning:<br>
     React Native<br>
     Web3<br>
