@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">High school student & Founder of Loclo!</h3>
-<p align="left"> <img src="https://gifdb.com/gif/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.html?embed=true" alt="HariPineapple" /> </p>
+<p align="left"> <img src="https://github.com/HariPineapple/HariPineapple/blob/9d2f436fb50d512dbf0e1417fee3203fb0c6b563/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.gif" alt="HariPineapple" /> </p>
 🌱 I'm currently Learning:<br>
     React Native<br>
     Web3<br>
