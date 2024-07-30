@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">High school student & Founder of Loclo!</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ElSierra/elsierra.github.io/main/assets/hi.png" style='display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
   border-radius: 20px; ' >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elsierra&label=Profile%20views&color=0e75b6&style=flat" alt="elsierra" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fluffy&psig=AOvVaw0A60kHXVVPDx5LXBwe24hf&ust=1722391071874000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDqh_LUzYcDFQAAAAAdAAAAABAE" alt="HariPineapple" /> </p>
 🌱 I'm currently Learning:<br>
     React Native<br>
     Web3<br>
