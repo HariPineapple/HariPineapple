@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">High school student & Founder of Loclo!</h3>
+<h3 align="center">High school student & a Co-Founder of Loclo!</h3>
 
-<table>
-  <tr>
-    <td>
-      🌱 I'm currently Learning:<br>
-      React Native<br>
-      Web3<br>
-      C<br>
-    </td>
-    <td>
-      <img src="https://github.com/HariPineapple/HariPineapple/blob/9d2f436fb50d512dbf0e1417fee3203fb0c6b563/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.gif" width="400" height="225" alt="HariPineapple" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div>
+    🌱 I'm currently Learning:<br>
+    React Native<br>
+    Web3<br>
+    C<br>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://github.com/HariPineapple/HariPineapple/blob/9d2f436fb50d512dbf0e1417fee3203fb0c6b563/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.gif" width="400" height="225" alt="HariPineapple" />
+  </div>
+</div>
 
 💬 Ask me about anything
 
