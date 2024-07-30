@@ -9,7 +9,7 @@
     C<br>
   </div>
   <div style="margin-left: 20px;">
-    <img src="https://github.com/HariPineapple/HariPineapple/blob/9d2f436fb50d512dbf0e1417fee3203fb0c6b563/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.gif" width="400" height="225" alt="HariPineapple" />
+    <img src="https://github.com/HariPineapple/HariPineapple/blob/9d2f436fb50d512dbf0e1417fee3203fb0c6b563/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.gif" align="right" width="400" height="225" alt="HariPineapple" />
   </div>
 </div>
 
