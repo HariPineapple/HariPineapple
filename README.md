@@ -40,4 +40,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HariPineapple&show_icons=true&locale=en&layout=compact" alt="HariPineapple" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HariPineapple&show_icons=true&locale=en" alt="HariPineapple" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HariPineapple&" alt="HariPineapple" /></p>
